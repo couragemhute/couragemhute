@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mist_coat_zw" target="blank"><img src="https://img.shields.io/twitter/follow/mist_coat_zw?logo=twitter&style=for-the-badge" alt="mist_coat_zw" /></a> </p>
 
-- 🤝 I’m now an expert in **Web Development (Django)**
+- 🤝 An expert in **Web Development (Django)**
 
 - 👨‍💻 All of my projects are available at [https://couragemhute.github.io/mist_coat/](https://couragemhute.github.io/mist_coat/)
 
