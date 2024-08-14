@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Courage Mhute</h1>
-<h3 align="center">Intermediate Software Engineer from Zimbabwe</h3>
+<h3 align="center">Intermediate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=couragemhute&label=Profile%20views&color=0e75b6&style=flat" alt="couragemhute" /> </p>
 
